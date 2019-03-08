@@ -54,6 +54,8 @@ body{
 a:link {
 	background-color: rgb(230, 134, 134) ;
 	text-decoration: none;
+	color: #f2f2f2;
+
   }
   
   /* visited link */
