@@ -1,6 +1,7 @@
 @import url(https://fonts.googleapis.com/css?family=Tangerine);
 @import url(https://fonts.googleapis.com/css?family=Anton);
 @import url(https://fonts.googleapis.com/css?family=Raleway);
+@import url(https://fonts.googleapis.com/css?family=Alef|M+PLUS+Rounded+1c);
 
 
 #menu
@@ -29,6 +30,11 @@
 	font-family: 'Anton', sans-serif;
 	text-shadow: 4px 4px 4px #aaa;
 	font-size: 60px;
+}
+#spa{
+	font-family: 'M PLUS Rounded 1c', sans-serif;
+	font-family: 'Alef', sans-serif;
+		font-size: 22px;
 }
 
   /* Change the color of links on hover */
