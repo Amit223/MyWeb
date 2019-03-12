@@ -31,6 +31,11 @@
 	text-shadow: 4px 4px 4px #aaa;
 	font-size: 60px;
 }
+#QA{
+	font-family: 'M PLUS Rounded 1c', sans-serif;
+	font-family: 'Alef', sans-serif;
+		font-size: 22px;
+}
 
   /* Change the color of links on hover */
   #menu a:hover
